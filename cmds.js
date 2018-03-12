@@ -179,7 +179,7 @@ exports.editCmd = (id, rl)  => {
 
 exports.creditsCmd = rl => {
     log('Autores de la práctica:');
-    log('Nombre 1', 'green');
+    log('FRANCISCO LORENZO GÓMEZ', 'green');
     log('Nombre 2', 'green');
     rl.prompt();
 }
