@@ -16,6 +16,9 @@
   "license": "Unlicense",
   "dependencies": {
     "chalk": "^2.3.2",
-    "figlet": "^1.2.0"
+    "figlet": "^1.2.0",
+    "save": "^2.3.2",
+    "sequelize": "^4.37.3",
+    "sqlite3": "^4.0.0"
   }
 }
